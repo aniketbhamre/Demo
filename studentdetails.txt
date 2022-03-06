@@ -1,6 +1,6 @@
 studentnames
-aarti 
-riya 
+aarti 123456
+riya 789012
 ojaswi
 aniket
 mayur
